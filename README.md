@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://i.ibb.co/fkXKKHH/dnsnew.jpg" alt="dnsnew" border="0">
+<img src=https://i.ibb.co/fkXKKHH/dnsnew.jpg" alt="20210103-132024" border="0">
 </p>
 <p align="center">
 <a href="https://github.com/rjfaz12">
