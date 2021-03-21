@@ -18,11 +18,11 @@
 ## Clone This Project
 
 ```bash
-> git clone https://github.com/denisputraa/dnsbot
+> git clone https://github.com/rjfaz12/rajabot-v2
 ```
 
 ```bash
-> cd dnsbot
+> cd rajabot-v2
 > bash install.sh
 ```
 
@@ -36,7 +36,7 @@
 * [`Fxc7`](https://github.com/Fxc7)
 * [`DIM5`](https://github.com/D1M5-DARKBOT)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
-
+* [`Denisputraa`](https:github.com/denisputraa)
 
 ## Sosmed
 * [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
