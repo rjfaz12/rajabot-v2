@@ -2,7 +2,7 @@
 <img src=https://i.ibb.co/fkXKKHH/dnsnew.jpg" alt="20210103-132024" border="0">
 </p>
 <p align="center">
-<a href="https://github.com/denisputraa">
+<a href="https://github.com/rjfaz12">
 </p>
 
   
