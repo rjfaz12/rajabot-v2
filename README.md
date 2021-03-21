@@ -41,4 +41,4 @@
 ## Sosmed
 * [`YouTube`](https://youtube.com/channel/UCdAlsvg9B6llWCWV8JMNhug)
 * [`WhatsApp`](https://chat.whatsapp.com/Hpwp8FBfJMtHEN5KeuFJKw)
-* [`Instagram`](https://instagram.com/denssptraa)
+* [`Instagram`](https://instagram.com/widod.id)
