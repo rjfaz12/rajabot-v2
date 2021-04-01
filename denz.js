@@ -75,7 +75,7 @@ const vcard1 = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=6285876210829:+62 858-76210-829\n'
             + 'END:VCARD'
 
-prefix = "#"
+prefix = "/"
 name = "DNS BOT"
 rdaftar = "@denssptraa"
 rmenu = "@denssptraa"
@@ -238,7 +238,7 @@ async function starts() {
 			}
 
 			const botNumber = denz.user.jid
-			const ownerNumber = ["6281996270246@s.whatsapp.net","6288707715156@s.whataapp.net"] // owner number ubah aja
+			const ownerNumber = ["6281996270246@s.whatsapp.net","6282117427701@s.whataapp.net"] // owner number ubah aja
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await denz.groupMetadata(from) : ''
