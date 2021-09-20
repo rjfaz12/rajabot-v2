@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://i.ibb.co/fkXKKHH/dnsnew.jpg" alt="20210103-132024" border="0">
+<img src=https://id.pinterest.com/pin/800233427542520441/?amp_client_id=HTezvizSdDS6TC48gZFO98dYG_j4tUDykzbksVTItL-14lTRJtRlnpe6RYXdNkdT&mweb_unauth_id=9e9b9d64ba2f4042b3681f225638cb32&amp_url=https%3A%2F%2Fid.pinterest.com%2Famp%2Fkrisnahakim%2Fbahan-stiker-wa%2F" alt="20210103-132024" border="0">
 </p>
 <p align="center">
 <a href="https://github.com/rjfaz12">
